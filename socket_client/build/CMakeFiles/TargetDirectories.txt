@@ -1,0 +1,3 @@
+/home/lisir1/code/socket_client/build/CMakeFiles/rebuild_cache.dir
+/home/lisir1/code/socket_client/build/CMakeFiles/edit_cache.dir
+/home/lisir1/code/socket_client/build/CMakeFiles/client_cmake.dir

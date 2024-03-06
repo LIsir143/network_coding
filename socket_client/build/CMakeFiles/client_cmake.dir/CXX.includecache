@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/client.h
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+netdb.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+
+/home/lisir1/code/socket_client/main.cpp
+client.h
+/home/lisir1/code/socket_client/client.h
+
+/home/lisir1/code/socket_client/src/client.cpp
+client.h
+/home/lisir1/code/socket_client/src/client.h
+
